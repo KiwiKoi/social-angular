@@ -10,5 +10,5 @@ import { NavbarComponent } from './components/navbar/navbar.component';
   imports: [RouterOutlet, NavbarComponent],
 })
 export class AppComponent {
-  title = 'angular-app';
+  title = 'social-media-app';
 }
